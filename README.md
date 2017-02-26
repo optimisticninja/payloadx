@@ -5,5 +5,6 @@ Crafts python payloads into obfuscated, self-executing, lzma-balled .pyz archive
 ```
 # Put your payloads in crafted_payloads
 
-$ ./scripts/obfuscate_python.sh
+$ make
+$ ls crafted_payloads
 ```

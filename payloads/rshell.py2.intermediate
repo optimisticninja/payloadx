@@ -2,7 +2,7 @@
 
 import socket, struct, sys
 
-h = '127.0.0.1'
+h = 'HOLY_MOLY'
 p = 666
 
 s = socket.socket,(2, 1) # create socket
