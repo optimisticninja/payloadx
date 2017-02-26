@@ -1,6 +1,6 @@
 # PAYLOADX
 
-Crafts python payloads into obfuscated, self-executing, lzma-balled .pyz archives.
+Crafts python payloads into obfuscated, self-executing, gzipped .pyz archives.
 
 ```
 # Put your payloads in crafted_payloads
