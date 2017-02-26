@@ -3,7 +3,7 @@
 import socket, struct, sys
 
 h = 'HOLY_MOLY'
-p = 666
+p = 'BATMAN'
 
 s = socket.socket(2, 1)                 # create socket
 s = s.connect(h, p)                     # connect to this host and port
